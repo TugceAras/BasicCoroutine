@@ -27,6 +27,7 @@ implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4'
 - https://kotlinlang.org/docs/coroutines-overview.html
 - https://kotlinlang.org/docs/coroutines-guide.html
 
-### :small_orange_diamond: License
+
+
 
 
