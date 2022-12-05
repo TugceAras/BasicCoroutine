@@ -14,7 +14,6 @@ fun main() {
         myJob.invokeOnCompletion {
             println("job ended")
         }
-
         myJob.cancel()
     }
 }

@@ -22,5 +22,4 @@ fun main(){
             println("Unconfined Thread: ${Thread.currentThread().name}")
         }
     }
-
 }
